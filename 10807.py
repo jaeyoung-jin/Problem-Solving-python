@@ -1,5 +1,5 @@
 #개수세기
-import sys
+import sys 
 
 #입력받을 정수의 개수
 n = int(sys.stdin.readline())
