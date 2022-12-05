@@ -1,0 +1,5 @@
+# 단어의 개수
+
+word_list = input().split()
+print(len(word_list))
+
